@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m a frontend developer currently working for Eliksir at [MailMojo](https://www.mailmojo.no/)
 - 👩‍💻 I previously studied and have a love for UI and interaction design
